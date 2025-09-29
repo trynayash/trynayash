@@ -10,16 +10,16 @@
 
   <!-- Social Badges with Animation -->
   <p>
-    <a href="https://www.linkedin.com/in/yash-suthar" target="_blank">
+    <a href="https://www.linkedin.com/in/yxshsuthar" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/trynayash" target="_blank">
+    <a href="https://twitter.com/yxshsuthar" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="https://yashportfolio.vercel.app/" target="_blank">
+    <a href="https://yashrsportfolio.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="mailto:sutharyash2003@gmail.com">
+    <a href="mailto:yashrsuthar90@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/trynayash" target="_blank">
