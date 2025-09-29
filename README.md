@@ -388,12 +388,6 @@ SQL          1 hr 30 mins    █░░░░░░░░░░░░░░░░
 
   <br/>
 
-  <p>
-    <strong>📞 Phone:</strong> +91-9561713120<br/>
-    <strong>📍 Location:</strong> Mumbai, India 🇮🇳<br/>
-    <strong>🎓 Currently:</strong> MCA Student (2025-2027)
-  </p>
-
   <br/>
 
   <!-- Footer Wave -->
