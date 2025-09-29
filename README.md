@@ -319,10 +319,38 @@ yash = SoftwareEngineer()
 <!-- Animated Wave Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+## 📊 Weekly Development Breakdown
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trynayash/trynayash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░   48.2%
+JavaScript   8 hrs 15 mins   ████████░░░░░░░░░░░░░   31.8%
+TypeScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░   14.5%
+SQL          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░    5.5%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+<br/>
+
+<!-- Animated Wave Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 Support My Work
+
+<div align="center">
+  
+  <p>If you like my projects and want to support my work:</p>
+  
+  <a href="https://www.buymeacoffee.com/trynayash" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+  </a>
+  
+  <p><em>⭐ Star my repositories if you find them useful!</em></p>
+
 </div>
 
 <br/>
