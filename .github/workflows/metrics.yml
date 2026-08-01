@@ -36,3 +36,7 @@ jobs:
           plugin_people_size: 280
           plugin_people_shuffle: yes
           plugin_traffic: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all

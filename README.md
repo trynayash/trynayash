@@ -30,6 +30,8 @@
 <br/>
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=trynayash&label=Profile+Views&color=111827&style=flat-square"/>
+
 </div>
 
 ---
@@ -247,6 +249,10 @@ Foundation in software engineering, databases, networking, algorithms, and appli
 
 ## GitHub Metrics
 
+![GitHub Snake](.github/assets/github-snake-dark.svg)
+
+<br/>
+
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=trynayash&show_icons=true&hide_border=true&bg_color=020617&title_color=ffffff&text_color=cbd5e1&icon_color=94a3b8&ring_color=94a3b8"/>
 
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=trynayash&layout=compact&hide_border=true&bg_color=020617&title_color=ffffff&text_color=cbd5e1"/>
@@ -254,6 +260,27 @@ Foundation in software engineering, databases, networking, algorithms, and appli
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=trynayash&theme=dark&hide_border=true&background=020617&stroke=475569&ring=94A3B8&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+
+<br/>
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+### Contribution Graph
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/trynayash)
+
+<br/>
+
+### Achievements
+
+🏆 **GitHub Profile Trophy**
+
+<img src="https://github-profile-trophy.vercel.app/?username=trynayash&row=1&column=3&no-bg=true&no-frame=true&theme=dark" alt="GitHub Profile Trophy"/>
 
 ---
 
