@@ -1,0 +1,43 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://github.com/trynayash$"
+    },
+    {
+      "pattern": "^https://linkedin.com/"
+    },
+    {
+      "pattern": "^https://cdn-icons-png.flaticon.com/"
+    },
+    {
+      "pattern": "^https://media.giphy.com/"
+    },
+    {
+      "pattern": "^https://skillicons.dev/"
+    },
+    {
+      "pattern": "^https://capsule-render.vercel.app/"
+    },
+    {
+      "pattern": "^https://readme-typing-svg.herokuapp.com/"
+    },
+    {
+      "pattern": "^https://komarev.com/"
+    },
+    {
+      "pattern": "^https://github-readme-stats"
+    },
+    {
+      "pattern": "^https://github-readme-streak-stats"
+    },
+    {
+      "pattern": "^https://streak-stats.demolab.com/"
+    },
+    {
+      "pattern": "^https://github-readme-stats.shion.dev/"
+    },
+    {
+      "pattern": "^https://img.shields.io/"
+    }
+  ]
+}

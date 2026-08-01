@@ -1,0 +1,35 @@
+name: README Validation
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  validate-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate Markdown links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+          config-file: '.github/.mlc_config.json'
+
+  validate-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint Markdown
+        uses: avto-dev/markdown-lint@v1
+        with:
+          config: '.github/.markdown-lint.json'
+          args: 'README.md'
