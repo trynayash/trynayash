@@ -2,31 +2,33 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br/>
 <br/>
 
 <a href="https://www.yashsuthar.dev">
-  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/trynayash">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.yashsuthar.dev/resume.pdf">
+  <img alt="Resume" src="https://img.shields.io/badge/Resume-111827?style=for-the-badge"/>
 </a>
 
 <a href="mailto:hello@yashsuthar.dev">
-  <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="Email" src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=trynayash&label=Profile+Views&color=111827&style=flat-square"/>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=trynayash&label=Profile+Views&color=111827&style=flat-square"/>
 
 </div>
 
@@ -34,34 +36,23 @@
 
 ## About
 
-Backend engineer focused on distributed systems, real-time infrastructure, and production-grade SaaS architecture.
+Software engineer in Mumbai. I build and ship complete products: the interface, the API, the data model, the tests, and the CI/CD and cloud infrastructure they run on. Founder of LimitYourAPI, ScopeCI and StartupDeckAI.
 
 ```ts
 const yash = {
-  role: "Backend Engineer",
+  role: "Software Engineer (full stack)",
   location: "Mumbai, India",
 
-  specializesIn: [
-    "Distributed Systems",
-    "Backend Architecture",
-    "Real-Time Infrastructure",
-    "Scalable APIs",
-    "Event-Driven Systems",
-  ],
+  stack: {
+    frontend: ["React", "TypeScript", "Vite", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Go", "GraphQL"],
+    data: ["PostgreSQL", "Redis", "MongoDB"],
+    delivery: ["Docker", "Terraform", "AWS", "GitHub Actions"],
+  },
 
-  currentFocus: [
-    "Production SaaS systems",
-    "Low-latency backend design",
-    "Infrastructure scalability",
-    "Modern developer platforms",
-  ],
+  shipped: ["LimitYourAPI", "StartupDeckAI", "ScopeCI"],
 
-  philosophy: [
-    "Design before implementation",
-    "Performance is a feature",
-    "Build for real-world failures",
-    "Prefer simplicity over unnecessary abstraction",
-  ],
+  openTo: ["Full stack", "Backend", "Frontend", "Platform and DevOps"],
 }
 ```
 
@@ -71,10 +62,10 @@ const yash = {
 
 | Principle | Approach |
 |:--|:--|
-| **Design Before Code** | Think through scaling, failure modes, boundaries, and architecture before implementation begins. |
-| **Performance Matters** | Latency, throughput, reliability, and scalability are first-class engineering concerns. |
-| **Predictable Infrastructure** | Prefer understandable systems over unnecessary abstraction and complexity. |
-| **Real-World Resilience** | Systems should degrade gracefully under failures, retries, reconnects, and burst traffic. |
+| **Design Before Code** | The data model, the user flow and the failure modes come first. |
+| **Fast for the User** | Page weight, API latency and query cost are budgets from day one. |
+| **Boring Where It Counts** | React, PostgreSQL, Redis, plain HTTP and Docker unless the problem demands otherwise. |
+| **Tested and Shipped Often** | Type checks, tests and CI on every change, with automated deploys. |
 
 ---
 
@@ -82,19 +73,19 @@ const yash = {
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=go,ts,js,python,java,bash&theme=dark"/>
-
-### Backend & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker,linux,nginx&theme=dark"/>
+<img alt="TypeScript, JavaScript, Go, Python, Java, C, HTML, CSS" src="https://skillicons.dev/icons?i=ts,js,go,python,java,c,html,css&theme=dark"/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"/>
+<img alt="React, Vite, Tailwind CSS" src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
 
-### Tooling & DevOps
+### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman&theme=dark"/>
+<img alt="Node.js, Express, GraphQL, PostgreSQL, Redis, MongoDB" src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,redis,mongodb&theme=dark"/>
+
+### DevOps & Testing
+
+<img alt="Docker, AWS, Terraform, GitHub Actions, Vercel, Linux, Vitest" src="https://skillicons.dev/icons?i=docker,aws,terraform,githubactions,vercel,linux,vitest&theme=dark"/>
 
 ---
 
@@ -106,24 +97,29 @@ const yash = {
 
 ### LimitYourAPI
 
-Production-grade distributed API rate limiting platform built for burst traffic and scalable backend infrastructure.
+API rate limiting SaaS, built and launched end to end.
 
-**Highlights**
-- Token bucket + sliding window algorithms
-- Redis Lua atomic counters
-- Stateless Go workers
-- Horizontal scalability
-- Sub-millisecond request decisions
+**Highlights:**
+
+- Go API where every limit is one atomic Redis Lua call
+- 6–14 µs of Redis CPU per check, measured
+- React dashboard, API keys, TOTP 2FA, Stripe billing
+- SDKs for Node.js, Go and Python
+- GitHub Actions CI/CD to AWS ECS Fargate, infrastructure in Terraform
 
 **Stack**
-`Go` `Redis` `PostgreSQL` `Docker`
+`Go` `React` `Redis` `PostgreSQL` `Terraform` `AWS`
 
 <a href="https://limityourapi.tech">
-  <img src="https://img.shields.io/badge/Live-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Live" src="https://img.shields.io/badge/Live-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/trynayash/LimitYourAPI-Repo">
-  <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.yashsuthar.dev/work/limityourapi">
+  <img alt="Case Study" src="https://img.shields.io/badge/Case_Study-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/trynayash/limityourapi-sdk">
+  <img alt="SDK" src="https://img.shields.io/badge/SDK-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -132,24 +128,25 @@ Production-grade distributed API rate limiting platform built for burst traffic 
 
 ### StartupDeckAI
 
-Startup evaluation platform built around composable scoring pipelines and normalized market-analysis systems.
+Live AI SaaS with 214+ users, built end to end.
 
-**Highlights**
-- Modular scoring architecture
-- AI-assisted evaluation workflows
-- Background enrichment workers
-- Fast request-response pipeline
-- Extensible schema design
+**Highlights:**
+
+- React and TypeScript UI with TanStack Query and Tailwind CSS
+- Express and GraphQL API on PostgreSQL
+- Four parallel LLM stages feed a deterministic 8-dimension score
+- Slow generation runs in BullMQ workers on Redis
+- 3,400+ tests run in CI before every deploy
 
 **Stack**
-`Node.js` `PostgreSQL` `Redis` `Next.js`
+`React` `TypeScript` `Node.js` `GraphQL` `PostgreSQL` `BullMQ`
 
 <a href="https://www.startupdeck.in">
-  <img src="https://img.shields.io/badge/Live-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Live" src="https://img.shields.io/badge/Live-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/trynayash/StartupDeckAI">
-  <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.yashsuthar.dev/work/startupdeck">
+  <img alt="Case Study" src="https://img.shields.io/badge/Case_Study-111827?style=for-the-badge"/>
 </a>
 
 </td>
@@ -158,88 +155,115 @@ Startup evaluation platform built around composable scoring pipelines and normal
 <tr>
 <td width="50%" valign="top">
 
-### CodeFusionAI
+### PromptP
 
-Collaborative multi-user coding environment with shared execution and synchronized real-time editing.
+Real-time event-driven platform.
 
-**Highlights**
-- Operational transform editing
-- Shared execution runtime
-- Containerized sandboxes
-- Real-time collaboration
-- Concurrent editing system
+**Highlights:**
+
+- Append-only Redis Streams log as the single source of truth
+- Every client view is derived from the log
+- Per-socket backpressure
+- Reconnects resume from the client's last event
 
 **Stack**
-`Go` `Docker` `WebSockets` `React`
+`Node.js` `Redis Streams` `WebSockets` `React`
 
-<a href="https://github.com/trynayash/codefusionai">
-  <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.yashsuthar.dev/work/promptp">
+  <img alt="Case Study" src="https://img.shields.io/badge/Case_Study-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/trynayash/promptp">
+  <img alt="Repository" src="https://img.shields.io/badge/Repository-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Face2BrandAI
+### CodeFusionAI
 
-AI-powered face-to-brand matching tool built for Google Cloud events.
+Collaborative coding environment.
 
-**Highlights**
-- Real-time face recognition
-- Brand matching algorithms
-- Cloud-native architecture
-- Optimistic UI updates
+**Highlights:**
+
+- Operational Transformation for concurrent editing
+- Per-session Docker sandboxes with cgroup CPU and memory limits
+- Presence on its own channel, separate from document traffic
 
 **Stack**
-`Next.js` `Python` `TensorFlow` `Vercel`
+`Go` `Docker` `WebSockets` `React`
 
-<a href="https://face2branai.vercel.app">
-  <img src="https://img.shields.io/badge/Live-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.yashsuthar.dev/work/codefusionai">
+  <img alt="Case Study" src="https://img.shields.io/badge/Case_Study-111827?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/trynayash/Face2Brand-AI">
-  <img src="https://img.shields.io/badge/Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/trynayash/codefusionai">
+  <img alt="Repository" src="https://img.shields.io/badge/Repository-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
 
+Also building **ScopeCI**: CI/CD for software agencies that ties the client contract and the project tracker to GitHub workflows, so unapproved work is caught before production. Waitlist open. [Case study](https://www.yashsuthar.dev/work/scopeci) · [GitHub](https://github.com/trynayash/scopecihq)
+
+---
+
+## Research
+
+### Overshoot, Retries and Clocks: An Empirical Study of Redis-Based Rate Limiting Under Concurrency
+
+**Preprint, Zenodo • Oct 2026**<br/>
+Tested 8 Redis rate limiters in 3,853 trials. Check-then-act over-admitted 29% at 64 workers, WATCH/MULTI refused up to 42% of valid requests, and caller clocks cut a token bucket to 16% of its rate. Code and data are public.
+
+<a href="https://doi.org/10.5281/zenodo.23467402">
+  <img alt="DOI 10.5281/zenodo.23467402" src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23467402-020617?style=for-the-badge"/>
+</a>
+
+<a href="https://www.yashsuthar.dev/writing/redis-rate-limiter-failures-measured">
+  <img alt="Summary" src="https://img.shields.io/badge/Summary-111827?style=for-the-badge"/>
+</a>
+
+Follow-up article: [Atomic rate limiting with Redis and Lua, measured](https://www.yashsuthar.dev/writing/atomic-rate-limiting-redis-lua) (7 experiments on Redis 7).
+
 ---
 
 ## Experience
 
-### Independent Builder & Backend Engineer
-**2024 — Present**
+### Founder & Software Engineer, LimitYourAPI
 
-Designing and shipping production-focused SaaS systems with emphasis on:
+**Jan 2026 — Present**<br/>
+Built and launched an API rate-limiting SaaS end to end: Go API, React dashboard, Stripe billing, SDKs for three languages, and CI/CD to AWS with the infrastructure in Terraform.
 
-- Distributed backend systems
-- Real-time infrastructure
-- Performance engineering
-- API architecture
-- Infrastructure scalability
+### Founder & Software Engineer, StartupDeckAI
 
-### Computer Lab Technician
-**2023 — 2024**
+**Jan 2025 — Present**<br/>
+Built a live AI SaaS (214+ users) end to end: React and TypeScript UI, Express and GraphQL API on PostgreSQL, BullMQ workers, and 3,400+ tests in GitHub Actions before every deploy.
 
-Worked on deployment workflows, troubleshooting systems, infrastructure operations, and technical maintenance.
+### Founder & Software Engineer, ScopeCI
 
-Built strong systems-thinking and operational discipline through hands-on technical work.
+**2026 — Present**<br/>
+Commercial CI/CD for software agencies, connecting the client contract to the code. Waitlist open.
+
+### Lab Technician, Parul University Computer Lab
+
+**2023**<br/>
+Deployed and maintained 120+ systems and triaged 15+ issues a day.
 
 ---
 
 ## Education
 
 ### Master of Computer Applications
-**University of Mumbai • 2025 — 2027**
 
-Focused on enterprise systems, scalable architecture, distributed computing, and backend engineering.
+**Late Bhausaheb Hiray S.S. Trust's Institute of Computer Applications, Mumbai • 2025 — 2027**<br/>
+CGPA 8.83/10. Coursework: data structures and algorithms, operating systems, computer networks, distributed systems, system design.
 
 ### Bachelor of Computer Applications
-**Parul University • 2022 — 2025**
 
-Foundation in software engineering, databases, networking, algorithms, and application development.
+**Parul University, Vadodara • 2022 — 2025**<br/>
+CGPA 7.93/10.
 
 ---
 
@@ -249,20 +273,13 @@ Foundation in software engineering, databases, networking, algorithms, and appli
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=trynayash&show_icons=true&hide_border=true&bg_color=020617&title_color=ffffff&text_color=cbd5e1&icon_color=94a3b8&ring_color=94a3b8"/>
+<img alt="GitHub stats" height="180em" src="https://github-readme-stats.shion.dev/api?username=trynayash&show_icons=true&hide_border=true&bg_color=020617&title_color=ffffff&text_color=cbd5e1&icon_color=94a3b8&ring_color=94a3b8"/>
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=trynayash&layout=compact&hide_border=true&bg_color=020617&title_color=ffffff&text_color=cbd5e1"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=trynayash&theme=dark&hide_border=true&background=020617&stroke=475569&ring=94A3B8&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+<img alt="Top languages" height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=trynayash&layout=compact&hide_border=true&bg_color=020617&title_color=ffffff&text_color=cbd5e1"/>
 
 <br/>
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<img alt="GitHub streak" width="70%" src="https://streak-stats.demolab.com/?user=trynayash&theme=dark&hide_border=true&background=020617&stroke=475569&ring=94A3B8&fire=FFFFFF&currStreakLabel=FFFFFF"/>
 
 <br/>
 
@@ -284,36 +301,39 @@ Foundation in software engineering, databases, networking, algorithms, and appli
 
 ```yaml
 Building:
-  - Distributed backend systems
-  - Real-time infrastructure
-  - Scalable SaaS platforms
-  - Developer-focused products
+  - LimitYourAPI: rate limiting and usage metering for APIs
+  - ScopeCI: CI/CD for software agencies
+  - StartupDeckAI: AI market analysis and pitch decks for founders
 
-Learning:
-  - Advanced Go concurrency
-  - Event-driven architecture
-  - Infrastructure design
-  - High-performance systems
+Writing:
+  - Measured studies of the systems I build
+
+Looking for:
+  - Software engineering roles: full stack, backend, frontend, platform and DevOps
 ```
 
 ---
 
 ## Connect
 
-Open to backend engineering, systems-focused roles, and meaningful collaborations.
+Open to software engineering roles (full stack, backend, frontend, platform and DevOps), remote or in Mumbai.
 
 <br/>
 
 <a href="mailto:hello@yashsuthar.dev">
-  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="Email" src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/trynayash">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.yashsuthar.dev">
-  <img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.yashsuthar.dev/resume.pdf">
+  <img alt="Resume" src="https://img.shields.io/badge/Resume-020617?style=for-the-badge"/>
 </a>
 
 <br/>

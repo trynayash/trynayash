@@ -59,7 +59,7 @@ This document credits all external image services, icon providers, and badge gen
 - **Usage**: .github/workflows/readme-validation.yml
 
 ### avto-dev/markdown-lint
-- **Repository**: https://github.com/avto-dev/markdown-lint-action
+- **Repository**: https://github.com/avto-dev/markdown-lint
 - **Purpose**: Lint Markdown files
 - **License**: MIT
 - **Usage**: .github/workflows/readme-validation.yml
