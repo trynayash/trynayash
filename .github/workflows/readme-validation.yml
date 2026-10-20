@@ -4,9 +4,13 @@ on:
   pull_request:
     paths:
       - 'README.md'
+      - '.github/.mlc_config.json'
+      - '.github/workflows/readme-validation.yml'
   push:
     paths:
       - 'README.md'
+      - '.github/.mlc_config.json'
+      - '.github/workflows/readme-validation.yml'
 
 jobs:
   validate-links:
