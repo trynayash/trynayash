@@ -2,6 +2,12 @@
   "ignorePatterns": [
     {
       "pattern": "^mailto:"
+    },
+    {
+      "pattern": "^https://limityourapi\\.tech"
+    },
+    {
+      "pattern": "^https://doi\\.org/"
     }
   ],
   "retryOn429": true,
