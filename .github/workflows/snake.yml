@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  # Also runs when this file changes, so a fix here shows up without waiting a day.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
 
 # The job commits the generated SVGs back to main.
 permissions:
