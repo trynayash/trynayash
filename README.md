@@ -50,6 +50,11 @@ Follow-up: [Atomic rate limiting with Redis and Lua, measured](https://www.yashs
 - **Data:** PostgreSQL, Redis, MongoDB
 - **Infrastructure and testing:** Docker, AWS, Terraform, GitHub Actions, Vercel, Linux, Vitest, Playwright
 
+## Experience
+
+- Founder and software engineer, LimitYourAPI (2026 to now) and StartupDeckAI (2025 to now)
+- Lab Technician Intern, Parul University computer lab (2023): set up and maintained 120+ systems and fixed 15+ issues a day
+
 ## Education
 
 - MCA, Late Bhausaheb Hiray S.S. Trust's Institute of Computer Applications, Mumbai (2025 to 2027, CGPA 8.83)
