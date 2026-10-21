@@ -48,7 +48,7 @@ Follow-up: [Atomic rate limiting with Redis and Lua, measured](https://www.yashs
 - **Front end:** React, Vite, Tailwind CSS, TanStack Query
 - **Back end:** Node.js, Express, Gin, GraphQL, REST, WebSockets
 - **Data:** PostgreSQL, Redis, MongoDB
-- **Infrastructure and testing:** Docker, AWS, Terraform, GitHub Actions, Vercel, Linux, Vitest, Playwright
+- **Infrastructure and testing:** Docker, Terraform, GitHub Actions, Render, Vercel, Cloudflare Workers, Linux, Vitest, Playwright
 
 ## Experience
 
