@@ -10,29 +10,29 @@ Looking for software engineering roles in backend, full stack or platform, remot
 
 ### [LimitYourAPI](https://limityourapi.tech)
 
-API rate limiting as a service. I built and launched it on my own.
+API rate limiting as a service. I built and deployed it on my own.
 
-- Go API where every limit check is one atomic Redis Lua call, measured at 6 to 14 µs of Redis CPU per check.
-- React dashboard with API keys, organizations, two-factor login and Stripe billing.
-- SDKs for Node.js, Go and Python, and a Cloudflare Workers limiter that runs at the edge.
-- GitHub Actions deploys to AWS ECS Fargate, with the infrastructure written in Terraform.
+- Go (Gin) API where each limit decision is one atomic Redis Lua script: token bucket, sliding window, quota and token cost.
+- React dashboard with API keys, organizations and two-factor login.
+- Node.js SDK on npm, Go and Python SDKs, and a Cloudflare Workers limiter that enforces signed rule snapshots at the edge.
+- GitHub Actions CI runs Go tests with the race detector, govulncheck and the frontend build. The API runs on Render and the dashboard on Vercel.
 
-Go, Redis, Lua, React, PostgreSQL, AWS, Terraform · [Case study](https://www.yashsuthar.dev/work/limityourapi) · [SDK](https://github.com/trynayash/limityourapi-sdk)
+Go, Redis, Lua, React, PostgreSQL, Cloudflare Workers · [Case study](https://www.yashsuthar.dev/work/limityourapi) · [SDK](https://github.com/trynayash/limityourapi-sdk)
 
 ### [StartupDeckAI](https://www.startupdeck.in)
 
-A live web app that helps founders test startup ideas, used by 214+ people.
+A live web app that helps founders test startup ideas. About 200 people signed up and ran more than 1,000 analyses by October 2026.
 
-- React and TypeScript front end, Express and GraphQL API, PostgreSQL.
-- Four AI stages and a synthesis stage feed a fixed scoring formula that gives a GO, PIVOT or KILL verdict. Every number in a report says where it came from.
-- Slow AI work runs in BullMQ workers on Redis, with leases, so a restart or a deploy doesn't leave a job stuck.
-- 3,400+ tests (Vitest and Playwright) run in GitHub Actions before every deploy.
+- React and TypeScript front end, Express API that streams each analysis over SSE, PostgreSQL and Razorpay subscriptions.
+- Four AI stages run in parallel, then a synthesis stage, and a fixed scoring formula gives a GO, PIVOT or KILL verdict. Every number in a report says where it came from.
+- Every push runs lint, type checks and 3,400+ tests (Vitest and Playwright) in GitHub Actions, and a passing run on main deploys the API.
+- BullMQ workers on Redis send email and run scheduled jobs.
 
-React, TypeScript, Node.js, GraphQL, PostgreSQL, Redis · [Case study](https://www.yashsuthar.dev/work/startupdeck)
+React, TypeScript, Node.js, PostgreSQL, Redis · [Case study](https://www.yashsuthar.dev/work/startupdeck)
 
 ### [ScopeCI](https://github.com/trynayash/scopecihq)
 
-CI/CD for software agencies that checks each change against the client contract before it ships. Early stage, waitlist open. [Case study](https://www.yashsuthar.dev/work/scopeci)
+A tool I'm building for software agencies: it checks each pull request against the scope the client signed. In development, with a waitlist open. [Case study](https://www.yashsuthar.dev/work/scopeci)
 
 ## Research
 
